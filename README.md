@@ -4,10 +4,13 @@ Link GitHubPages: vitor8.github.io/pixels-art/
 
 Instruções para a instalção do projeto: 
 
-Fork o repositório
-Clone o repositório: git clone git@github.com:Vitor8/pixels-art.git
-Entre na pasta: cd pixels-art
-Abra o arquivo index.html no navegador de preferência
+  Fork o repositório
+  
+  Clone o repositório: git clone git@github.com:Vitor8/pixels-art.git
+
+  Entre na pasta: cd pixels-art
+
+  Abra o arquivo index.html no navegador de preferência
 
 O objetivo foi praticar um pouco da manipulação do DOM. 
 
