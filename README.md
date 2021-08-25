@@ -2,6 +2,8 @@ Aplicação simples usando HTML, CSS e JavaScript.
 
 Link GitHubPages: vitor8.github.io/pixels-art/
 
+![Captura de tela de 2021-08-25 14-17-05](https://user-images.githubusercontent.com/24492328/130835990-2c769550-a69b-437d-8d1a-194e93898afa.png)
+
 Instruções para a instalção do projeto: 
 
   Fork o repositório
